@@ -7,5 +7,5 @@ flutter pub get
 ```
 
 ## ScreenShot
-![](img/qr.jpg)
 ![](img/lotto.gif)
+![](img/qr.png)
